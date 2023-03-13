@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "494827825922",
+    "firebase_url": "https://wateriotprojecttest-default-rtdb.firebaseio.com",
+    "project_id": "wateriotprojecttest",
+    "storage_bucket": "wateriotprojecttest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494827825922:android:2d9202c454a8ca6b27f01b",
+        "android_client_info": {
+          "package_name": "com.example.waterprojectdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494827825922-3ivp5d90s93dkjnq0dd897kjnnd54lda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXti2ZzWl0CxRtc39eJUmWW0xOOKTtLzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494827825922-3ivp5d90s93dkjnq0dd897kjnnd54lda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
